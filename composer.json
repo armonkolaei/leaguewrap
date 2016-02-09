@@ -2,13 +2,13 @@
     "name": "armonkolaei/leaguewrap",
     "type": "library",
     "description": "A wrapper for the League of Legends API.",
-    "version": "0.6.4",
+    "version": "1.0.0",
     "keywords": ["League", "legends", "wrap", "api", "facade", "proxy"],
-    "homepage": "https://github.com/paquettg/leaguewrap",
+    "homepage": "https://github.com/armonkolaei/leaguewrap",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gilles Paquette",
+            "name": "Armon Kolaei",
             "email": "armonkolaei@gmail.com",
             "homepage": "http://kolaeigroup.com"
         }
