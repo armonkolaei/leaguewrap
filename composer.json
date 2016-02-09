@@ -1,5 +1,5 @@
 {
-    "name": "paquettg/leaguewrap",
+    "name": "armonkolaei/leaguewrap",
     "type": "library",
     "description": "A wrapper for the League of Legends API.",
     "version": "0.6.4",
@@ -9,8 +9,8 @@
     "authors": [
         {
             "name": "Gilles Paquette",
-            "email": "paquettg@gmail.com",
-            "homepage": "http://gillespaquette.ca"
+            "email": "armonkolaei@gmail.com",
+            "homepage": "http://kolaeigroup.com"
         }
     ],
     "require": {
