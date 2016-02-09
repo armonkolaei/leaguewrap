@@ -27,6 +27,6 @@
         	"LeagueWrap": "src/"
        	}
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-tournament",
     "prefer-stable": true
 }
