@@ -1,16 +1,16 @@
 {
-    "name": "armonkolaei/leaguewrap",
+    "name": "paquettg/leaguewrap",
     "type": "library",
     "description": "A wrapper for the League of Legends API.",
-    "version": "1.0.0",
+    "version": "0.6.4",
     "keywords": ["League", "legends", "wrap", "api", "facade", "proxy"],
-    "homepage": "https://github.com/armonkolaei/leaguewrap",
+    "homepage": "https://github.com/paquettg/leaguewrap",
     "license": "MIT",
     "authors": [
         {
-            "name": "Armon Kolaei",
-            "email": "armonkolaei@gmail.com",
-            "homepage": "http://kolaeigroup.com"
+            "name": "Gilles Paquette",
+            "email": "paquettg@gmail.com",
+            "homepage": "http://gillespaquette.ca"
         }
     ],
     "require": {
@@ -23,10 +23,10 @@
         "satooshi/php-coveralls": "~0.6.0"
     },
     "autoload": {
-        "psr-0": { 
-        	"LeagueWrap": "src/"
-       	}
+        "psr-0": {
+            "LeagueWrap": "src/"
+        }
     },
-    "minimum-stability": "dev-tournament",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
